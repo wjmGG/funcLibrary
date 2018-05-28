@@ -1,4 +1,5 @@
-<?php 
+<?php
+    function __construct(){
 
-	echo "hallo world";
+    }
  ?>
